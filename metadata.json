@@ -1,0 +1,6 @@
+{
+  "name": "Trading Risk & EV Analyzer",
+  "description": "Interactive analytical dashboard evaluating binary options signal software, expected financial value, breakout win rates, and risk mitigation strategies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
